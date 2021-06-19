@@ -1,0 +1,24 @@
+Pour faire fonctionner le code : 
+
+----  ALGORITHME NAIF ------
+
+Il n'y a rien à faire, juste executer le fichier build.xml.
+
+Pour tester avec la base de test VAROUMAS BENCHMARK, nous avons créer un fichier "input.points" auquel on ajoute les instances des points au fur et à mesure,
+actuellement le fichier dispose de 256, on a ajouté à chaque fois 256 points suivant l'archive de test que l'on nous a fournie.
+
+-- ALGO WELZL ---
+
+Il suffit de commenter la partie Algo Naïf et de dé-commenter la partie Welzl !! 
+
+Le test a été fait de la même manière qu'avec l'algo naïf (fichier input.points) 
+
+
+-- IMPORTANT --
+
+Pour un bon fonctionnement, ne jamais cliquer sur "r" lors de l'affichage de l'interface graphique DiamRacer !!!
+
+
+
+
+// AMINE BENSLIMANE :)
